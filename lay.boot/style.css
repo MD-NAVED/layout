@@ -45,3 +45,26 @@
 .width{
     width: 800px;
 }
+
+.pick{
+    background-color: #2C3E50;
+}
+
+.display{
+    display: block;
+}
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright{
+    background-color: #1A252F;
+}
+    
